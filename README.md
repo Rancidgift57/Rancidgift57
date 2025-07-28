@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rancidgift57" alt="rancidgift57" /></a> </p>
 
-- 🔭 I’m currently working on **VocalEye**
+- 🔭 I’m currently working on **BCI**
 
-- 🌱 I’m currently learning **MiDaS,YOLO**
+- 🌱 I’m currently learning **BCI - EEG Signals**
 
 - 💬 Ask me about **Flask,OpenCV,Matplotlib,Tensorflow**
 
