@@ -70,13 +70,11 @@
 
 ## 📈 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/rancidgift57/rancidgift57/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rancidgift57&show_icons=true&locale=en&layout=compact" alt="rancidgift57" /></p>
 
-> Renders automatically once the [snake workflow](https://github.com/Platane/snk) is added to this repo's Actions — see setup note at the bottom.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rancidgift57&show_icons=true&locale=en" alt="rancidgift57" /></p>
 
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rancidgift57&" alt="rancidgift57" /></p>
 
 ## 📫 Connect With Me
 
