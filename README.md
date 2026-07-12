@@ -47,16 +47,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=rancidgift57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nikhil's GitHub stats" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rancidgift57&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rancidgift57&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
