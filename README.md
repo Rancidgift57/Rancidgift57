@@ -15,8 +15,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Brain-Computer Interfaces (BCI)**
-- 🌱 Currently learning **EEG signal processing for BCI**
+- 🔭 Currently working on **PrajaTantra, PoiliceOS**
+- 🌱 Currently learning **TypeScripts**
 - 👁️ Background in **computer vision** — object detection, depth estimation, real-time navigation systems
 - 💬 Ask me about **Flask, OpenCV, Matplotlib, TensorFlow**
 - ⚡ I like turning research-y AI ideas into things that actually run in real time
