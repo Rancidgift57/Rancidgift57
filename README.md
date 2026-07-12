@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **PrajaTantra, PoiliceOS**
+- 🔭 Currently working on **PrajaTantra, PoliceOS**
 - 🌱 Currently learning **TypeScripts**
 - 👁️ Background in **computer vision, Machine Learning, FastAPI, RAG** 
 - 💬 Ask me about **Flask, OpenCV, Matplotlib, TensorFlow, RAG, FastAPI**
