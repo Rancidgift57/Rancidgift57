@@ -50,10 +50,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rancidgift57&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=rancidgift57&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</a>
-
 </div>
 
 <br/>
