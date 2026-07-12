@@ -18,7 +18,7 @@
 - 🔭 Currently working on **PrajaTantra, PoiliceOS**
 - 🌱 Currently learning **TypeScripts**
 - 👁️ Background in **computer vision, Machine Learning, FastAPI, RAG** 
-- 💬 Ask me about **Flask, OpenCV, Matplotlib, TensorFlow**
+- 💬 Ask me about **Flask, OpenCV, Matplotlib, TensorFlow, RAG, FastAPI**
 - ⚡ I like turning research-y AI ideas into things that actually run in real time
 - 📫 Reach me at **nnair7598@gmail.com**
 
