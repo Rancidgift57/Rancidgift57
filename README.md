@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Nair;Computer+Vision+Enthusiast;Building+AI-Driven+Solutions;Exploring+Brain-Computer+Interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Nair;AI/ML+Enthusiast;Building+AI-Driven+Solutions;Exploring+Typescripts" alt="Typing SVG" />
 
 <br/>
 
-**Object detection · Depth estimation · Real-time navigation · Now diving into BCI & EEG signals**
+**Object detection · Depth estimation · FastAPI · RAG *
 
 <img src="https://komarev.com/ghpvc/?username=rancidgift57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/rancidgift57?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
