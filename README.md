@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **PrajaTantra, PoliceOS**
-- 🌱 Currently learning **TypeScripts**
+- 🌱 Currently learning **AWS Sagemaker**
 - 👁️ Background in **computer vision, Machine Learning, FastAPI, RAG** 
 - 💬 Ask me about **Flask, OpenCV, Matplotlib, TensorFlow, RAG, FastAPI**
 - ⚡ I like turning research-y AI ideas into things that actually run in real time
