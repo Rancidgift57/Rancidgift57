@@ -55,10 +55,8 @@
 <br/>
 
 ## 🏆 GitHub Profile Trophy
-<div align="centre">
-<p align="left">
+<div align="center">
   <img src="https://github-trophies.vercel.app/?username=rancidgift57&theme=alduin" />
-</p>
 </div>
 
 ## 📫 Connect With Me
