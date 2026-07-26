@@ -1,84 +1,96 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Nair;AI/ML+Enthusiast;Building+AI-Driven+Solutions;Exploring+Sagemaker" alt="Typing SVG" />
+# Hi, I'm Nikhil Manikandan Nair 👋
 
-<br/>
+### AI/ML Engineer • Computer Vision • Deep Learning • Building things that think
 
-**Object detection · Depth estimation · FastAPI · RAG *
-
-<img src="https://komarev.com/ghpvc/?username=rancidgift57&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/rancidgift57?label=Followers&style=for-the-badge&color=0e75b6" alt="Followers" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-nair-809248286)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil26feb04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rancidgift57)
 
 </div>
 
-<br/>
+---
 
-## 🚀 About Me
+### `whoami`
 
-- 🔭 Currently working on **PrajaTantra, PoliceOS**
-- 🌱 Currently learning **AWS Sagemaker**
-- 👁️ Background in **computer vision, Machine Learning, FastAPI, RAG** 
-- 💬 Ask me about **Flask, OpenCV, Matplotlib, TensorFlow, RAG, FastAPI**
-- ⚡ I like turning research-y AI ideas into things that actually run in real time
-- 📫 Reach me at **nnair7598@gmail.com**
+```python
+class Nikhil:
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.education = "B.E. AI & ML, SIES GST (CGPA: 8.72/10)"
+        self.stack = ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn", "FastAPI"]
+        self.interests = ["Computer Vision", "Multimodal RAG", "BCI Systems", "Simulation Engines"]
+        self.currently_building = "Whatever solves a real problem, end-to-end."
 
-<br/>
+    def philosophy(self):
+        return "Ship it from notebook to production."
+```
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+### 🚀 Things I've Built
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Touchline](https://touchline.nikhilnair1976.workers.dev/)** | Neural football simulation engine — two PyTorch nets trained on 77k+ StatsBomb events (0.80 ROC-AUC, 90.3% accuracy), ML-blended decision engine with anti-cheat trade scoring | PyTorch, Scikit-learn, FastAPI |
+| **[PrajaTantra](https://prajatantra-five.vercel.app)** | 5-player asymmetrical multiplayer political strategy simulator with real-time floor tests & flash crises | Next.js, FastAPI, WebSockets, Redis, PostgreSQL, Neo4j |
+| **Smart Research Assistant** | Multimodal RAG pipeline extracting data from nested tables/charts that break text-only RAG — cut API costs 80% | Gemini 2.5 Flash, ChromaDB, Streamlit |
+| **[EduRPG](https://edu-rpg-six.vercel.app/)** | Gamified learning platform with RPG battle mechanics, XP progression, AI tutor & clan wars | Full-stack, AI integration |
+| **[NeuroLearn](https://github.com/Rancidgift57/NeuroLearn.git)** | Brain-Computer Interface classifying EEG signals to detect real-time focus via beta-wave dominance | Python, ML signal processing |
+| **[NetraAI](https://github.com/Rancidgift57/NetraAl.git)** | Assistive navigation for visually impaired users — real-time obstacle detection & depth estimation | YOLO, MiDaS, OpenCV |
+| **[Gesture Sketchpad](https://github.com/Rancidgift57/GESTURE-SKETCHPAD.git)** | Draw on a virtual canvas using hand gestures — no mouse, no stylus | OpenCV, MediaPipe, TensorFlow |
+
+> 📄 Also published: *"SketchMate with Autoshape"* — Springer, presented at ICDSMA 2024
+
+---
+
+### 🛠️ Tech Arsenal
 
 **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=python,java,js,bash,html,css" alt="Languages" />
+**ML / CV**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
-**AI / ML / Computer Vision**
+**Backend / Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20SageMaker-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML" />
+---
 
-**Data & Backend**
+### 📊 GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=flask,mysql,postgres,git" alt="Data & Backend" />
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Rancidgift57&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rancidgift57&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+### 🏆 Achievements
+
+- 🥈 Finalist — Mumbai's Largest CTF: **CyberStorm**
+- 🥈 Finalist — **X-ploit'athon** CTF
+- 🎓 Zonal Round Qualifier — **Avishkar** Innovation Research Competition (Mumbai University)
+
+---
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rancidgift57&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+*"From notebook to production — building AI that ships."*
 
-</div>
-
-<br/>
-
-## 🏆 GitHub Profile Trophy
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=rancidgift57&theme=alduin" />
-</div>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/nikhil-nair-809248286" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:nnair7598@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/nnair90d9" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*"Vision gives machines sight. Signals from the brain might just give them intent."*
+📫 Reach me at **nikhil26feb04@gmail.com**
 
 </div>
