@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Nikhil Manikandan Nair 👋
+# Hi, I'm Nikhil Nair 👋
 
 ### AI/ML Engineer • Computer Vision • Deep Learning • Building things that think
 
@@ -91,6 +91,6 @@ class Nikhil:
 
 *"From notebook to production — building AI that ships."*
 
-📫 Reach me at **nikhil26feb04@gmail.com**
+📫 Reach me at **nnair7598@gmail.com**
 
 </div>
