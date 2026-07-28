@@ -35,7 +35,7 @@ class Nikhil:
 |---|---|---|
 | **[Touchline](https://touchline.nikhilnair1976.workers.dev/)** | Neural football simulation engine — two PyTorch nets trained on 77k+ StatsBomb events (0.80 ROC-AUC, 90.3% accuracy), ML-blended decision engine with anti-cheat trade scoring | PyTorch, Scikit-learn, FastAPI |
 | **[PrajaTantra](https://prajatantra-five.vercel.app)** | 5-player asymmetrical multiplayer political strategy simulator with real-time floor tests & flash crises | Next.js, FastAPI, WebSockets, Redis, PostgreSQL, Neo4j |
-| **Smart Research Assistant** | Multimodal RAG pipeline extracting data from nested tables/charts that break text-only RAG — cut API costs 80% | Gemini 2.5 Flash, ChromaDB, Streamlit |
+| **[Smart Research Assistant](https://smart-research-assistant-rag.streamlit.app/)** | Multimodal RAG pipeline extracting data from nested tables/charts that break text-only RAG — cut API costs 80% | Gemini 2.5 Flash, ChromaDB, Streamlit |
 | **[EduRPG](https://edu-rpg-six.vercel.app/)** | Gamified learning platform with RPG battle mechanics, XP progression, AI tutor & clan wars | Full-stack, AI integration |
 | **[NeuroLearn](https://github.com/Rancidgift57/NeuroLearn.git)** | Brain-Computer Interface classifying EEG signals to detect real-time focus via beta-wave dominance | Python, ML signal processing |
 | **[NetraAI](https://github.com/Rancidgift57/NetraAl.git)** | Assistive navigation for visually impaired users — real-time obstacle detection & depth estimation | YOLO, MiDaS, OpenCV |
