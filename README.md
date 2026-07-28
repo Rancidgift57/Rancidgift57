@@ -41,7 +41,7 @@ class Nikhil:
 | **[NetraAI](https://github.com/Rancidgift57/NetraAl.git)** | Assistive navigation for visually impaired users — real-time obstacle detection & depth estimation | YOLO, MiDaS, OpenCV |
 | **[Gesture Sketchpad](https://github.com/Rancidgift57/GESTURE-SKETCHPAD.git)** | Draw on a virtual canvas using hand gestures — no mouse, no stylus | OpenCV, MediaPipe, TensorFlow |
 
-> 📄 Also published: *"SketchMate with Autoshape"* — Springer, presented at ICDSMA 2024
+> 📄 Also published: **["SketchMate with Autoshape"](https://link.springer.com/chapter/10.1007/978-981-95-1320-8_17)** — Springer, presented at ICDSMA 2024
 
 ---
 
