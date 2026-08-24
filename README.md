@@ -74,7 +74,7 @@ class Nikhil:
 
 <div align="center">
 <img src="https://github-readme-mwendwa.vercel.app/api?username=Rancidgift57&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rancidgift57&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=Rancidgift57&theme=github" />
 </div>
 
 ---
