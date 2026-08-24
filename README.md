@@ -2,7 +2,9 @@
 
 # Hi, I'm Nikhil Nair 👋
 
-### AI/ML Engineer • Computer Vision • Deep Learning • Building things that think
+### AI/ML Engineer · AI Systems · Backend · Computer Vision • Building things that think
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+AI+systems+that+actually+ship.;From+vectors+to+inference+to+autonomous+agents.;Engineering+the+infrastructure+behind+intelligent+systems." />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-nair-809248286)
 [![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nnair7598@gmail.com)
